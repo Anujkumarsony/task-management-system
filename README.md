@@ -31,7 +31,7 @@ Features
 Installation & Setup
 
 1. Clone Repository
-   git clone https://github.com/<username>/<repo-name>.git
+   git clone https://github.com/Anujkumarsony/task-management-system
    cd <repo-name>
 
 2. Backend Setup
